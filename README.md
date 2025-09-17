@@ -65,14 +65,42 @@ const mihai = {
 - **🛡️ Security First** - Secure development practices
 - **🚀 Full Stack Development** - From concept to deployment
 
-## 📈 GitHub Stats
+## 🏆 Business Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emanuelv015&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+### 🎯 What Sets OverByte Apart
+
+```
+✨ Quality over Quantity Approach
+🚀 Client-First Development
+💡 Custom Solutions, Not Templates  
+🔒 Private Repository Work
+⚡ Fast Delivery & Performance
+```
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelv015&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+**🌟 Building Digital Excellence Since 2023 🌟**
+
+*Most of our development work happens in private repositories for client projects*
+
+</div>
+
+## 💼 Professional Achievements
+
+<div align="center">
+
+| 🎯 **Focus Area** | 📊 **Impact** |
+|:---|:---|
+| **Agency Founded** | 2023 🚀 |
+| **Development Approach** | Quality-First ✨ |
+| **Client Work** | Private Repositories 🔒 |
+| **Specialization** | Modern Web Solutions 💡 |
+| **Current Status** | Growing & Scaling 📈 |
+
 </div>
 
 ## 🌐 Let's Connect
