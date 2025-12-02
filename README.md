@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mihai Emanuel
+# Hi there! 👋 I'm  Emanuel
 
 <div align="center">
   
@@ -127,3 +127,4 @@ const mihai = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=emanuelv015&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
+
